@@ -30,4 +30,8 @@ provision s3 buckets using terraform:
 Please ensure that the following is in place or installed. 
 aws cli
 tfenv 
+How to do a pull request : 
+clone the repo to your local 
+do your changes on the main/master branch 
+do :  git add (file name) .
 
