@@ -24,3 +24,10 @@ cd helm
 
 Be sure to check the code prior to using as some will require secrets. 
 
+.......................................
+provision s3 buckets using terraform:
+
+Please ensure that the following is in place or installed. 
+aws cli
+tfenv 
+
