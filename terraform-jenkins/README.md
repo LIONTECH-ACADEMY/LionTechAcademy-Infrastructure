@@ -29,3 +29,8 @@ Create a file called **secrets.tfvars** and populate it with: `my_ip="0.0.0.0"` 
 ### To destroy everything Terraform built
 `terraform destroy -var-file="secrets.tfvars"`
 
+tfenv install
+$ tfenv install 0.7.0
+$ tfenv install latest
+$ tfenv install latest:^0.8
+$ tfenv install min-required

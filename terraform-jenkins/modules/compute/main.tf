@@ -7,7 +7,7 @@ variable "public_subnet" {
 }
 
 resource "aws_instance" "jenkins_server" {
-   ami = "ami-05803413c51f242b7"                 #"${data.aws_ami.ubuntu.id}"
+   ami = "ami-0d0acb47faa127dac"                 #"${data.aws_ami.ubuntu.id}"
    subnet_id = var.public_subnet
    instance_type = "t2.2xlarge"
    vpc_security_group_ids = [var.security_group]
