@@ -1,0 +1,30 @@
+Welcome to Lion Tech Academy.  we are glad to be part of this journey with you. To get started please ensure 
+you have installed the following and set up your local environment. 
+ Required tools. for the start. 
+ Getting Started
+ AWS ACCOUNT:
+ follow link :  https://portal.aws.amazon.com/gp/aws/developer/registration/index.html?refid=58b3b422-9e3d-4d31-a50d-c6f8b1a5161a
+ download vscode : 
+ follow link: https://code.visualstudio.com/download  (please download according to your os)
+Choice of Code Editors: 
+   sublime text 
+ download here: https://www.sublimetext.com/
+For WINDOWS OS USERS ONLY: 
+ DOWNLOAD WSL  (windows subsystem for linux)
+Link to documentation:   https://docs.microsoft.com/en-us/windows/wsl/install#install
+1. Open powershell as Administrator 
+2. Run :  wsl --install 
+
+WSL AND MAC OS USERS: 
+Downlaod and install :  Homebrew.
+Link to documentation :  https://docs.brew.sh/Homebrew-on-Linux
+
+
+
+Name servers
+To use Lightsail to manage DNS records for your domain, you will have to configure your domain provider to use the following name servers:
+
+ns-538.awsdns-03.net
+ns-1763.awsdns-28.co.uk
+ns-1200.awsdns-22.org
+ns-72.awsdns-09.com
